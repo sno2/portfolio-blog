@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "id": 10001,
+            "name": "1 Page Website w/ 3 Sections",
+            "price": 39.99
+        },
+        {
+            "id": 10002,
+            "name": "3 Page Website w/ 3 Sections Per Page",
+            "price": 99.99
+        }
+    ]
+}
